@@ -5,7 +5,11 @@ Small program to keep your computer awake
 Moves your mouse every 4 minutes and 30 seconds. No underlying reason for this program at all. Just a simple, innocent Python program...
 
 ## Troubleshooting
-Make sure all the needed modules/packages are installed. '''pip install [package_name]''' should do the trick.
+Make sure all the needed modules/packages are installed. 
+'''
+pip install [package_name]
+'''
+in terminal should do the trick.
 Needed packages:
 * pyautogui
 * datetime
